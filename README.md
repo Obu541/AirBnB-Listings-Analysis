@@ -15,6 +15,16 @@ This project is part of a guided course from [Maven Analytics](https://www.maven
 ## Technologies Used:
 Python, Pandas, Matplotlib, Jupyter Notebook
 
+## 🚀 How to Use This Project
+
+To explore the analysis, open the following file:
+
+📂 **Click to view the Jupyter Notebook:**  
+👉 [`airbnb_analysis_starter_notebook.ipynb`](airbnb_analysis_starter_notebook.ipynb)
+
+This notebook contains all the data processing, visualizations, and insights.
+
+
 ## 🔥 Key Insights
 ### 🔹 Average Listing Price by Paris Neighbourhood
 The graph below identifies **the most expensive and cheapest** neighbourhoods in Paris:
