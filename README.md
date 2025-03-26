@@ -1,4 +1,4 @@
-# AirBnB Listing Analysis
+# AirBnB Listing Analysis with Python
 This project analyzes Airbnb listings in Paris to extract valuable insights using data analysis techniques.  
 The goal is to filter, clean, and visualize the data to identify trends in pricing, accommodations, and host activity over time.  
 Leadership wants a visual summary of factors affecting pricing  and whether regulations adopted in 2015 impacted listings    
